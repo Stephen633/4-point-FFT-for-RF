@@ -28,4 +28,7 @@ it returns ERROR: [Synth 8-502] non-constant real-valued expression is not suppo
 
 after searching in google and baidu, i found the solution for this problem which is using a new stanard of VHDL-2008
 In VHDL-2008 it has a newer library for floating point that can able to synthsis
-(problem link: https://cloud.tencent.com/developer/ask/sof/107303665)
+
+
+(solution for problem link (chinese): https://cloud.tencent.com/developer/ask/sof/107303665)
+(solution for problem link (english): https://stackoverflow.com/questions/73778428)
