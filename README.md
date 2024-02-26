@@ -5,8 +5,13 @@ the idea is about using FFT　implement　to FPGA as a thunder-fast computing an
 
 FFT is an improvement of DFT
 
-DFT butterfly diagram for 2 point
+                                DFT butterfly diagram for 2 point
+                                
 ![image](https://github.com/Stephen633/4-point-FFT-for-RF/assets/72491010/5847a014-1a11-43e1-aabf-5fa3fef1ab49)
+
+
+                                          4 point
+                                          
 ![image](https://github.com/Stephen633/4-point-FFT-for-RF/assets/72491010/e2b3aabd-2845-47d2-a07d-ef6ea7e2eaca)
 
 then we have formular for 4 point FFT
