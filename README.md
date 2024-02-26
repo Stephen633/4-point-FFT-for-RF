@@ -14,10 +14,12 @@ FFT is an improvement of DFT
                                           
 ![image](https://github.com/Stephen633/4-point-FFT-for-RF/assets/72491010/e2b3aabd-2845-47d2-a07d-ef6ea7e2eaca)
 
-then we have formular for 4 point FFT
+                              then we have formular for 4 point FFT
+
 ![image](https://github.com/Stephen633/4-point-FFT-for-RF/assets/72491010/1d68abc2-350f-42eb-b3f2-455ee9442bc1)
 
-then we have arrange the formular
+                              then we have arrange the formular
+
 ![image](https://github.com/Stephen633/4-point-FFT-for-RF/assets/72491010/11374e81-cc5f-4284-a033-d2ef033244d1)
 
 
